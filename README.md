@@ -1,4 +1,4 @@
-# TwitterSentimentAnalysis
+# Twitter Sentiment Analysis
 
 Twitter sentiment analysis involves using Natural Language Processing (NLP) and Machine Learning (ML) models to discern whether a tweet conveys negative, positive, or neutral emotions. Sentiment analysis, also known as opinion mining, entails identifying and categorizing sentiments expressed in text sources. The abundance of tweets serves as valuable data for comprehending public opinions on diverse topics through social media analysis. Let's look at some of the projects here:
 
