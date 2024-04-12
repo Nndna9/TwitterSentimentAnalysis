@@ -16,3 +16,10 @@ Then I've used 4 Algorithms - Logistic Regression, Support Vector Classifier, Hy
 ## Twitter API 
 
 You can also use Twitter's API to get live tweet Analysis
+
+
+## TextBlob 
+
+We uses the tweepy library to access the Twitter API and the TextBlob library to perform Sentiment Analysis. 
+
+Learn more about this from here : https://www.youtube.com/watch?v=o_OZdbCzHUA
