@@ -22,4 +22,4 @@ You can also use Twitter's API to get live tweet Analysis
 
 We uses the tweepy library to access the Twitter API and the TextBlob library to perform Sentiment Analysis. 
 
-> Learn more about this from here : https://www.youtube.com/watch?v=o_OZdbCzHUA
+> [Learn more about this](https://www.youtube.com/watch?v=o_OZdbCzHUA)
